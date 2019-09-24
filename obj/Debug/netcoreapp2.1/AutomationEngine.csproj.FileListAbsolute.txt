@@ -1,0 +1,11 @@
+/home/sandeep/Desktop/CodePractice/AutomationEngine/bin/Debug/netcoreapp2.1/AutomationEngine.deps.json
+/home/sandeep/Desktop/CodePractice/AutomationEngine/bin/Debug/netcoreapp2.1/AutomationEngine.runtimeconfig.json
+/home/sandeep/Desktop/CodePractice/AutomationEngine/bin/Debug/netcoreapp2.1/AutomationEngine.runtimeconfig.dev.json
+/home/sandeep/Desktop/CodePractice/AutomationEngine/bin/Debug/netcoreapp2.1/AutomationEngine.dll
+/home/sandeep/Desktop/CodePractice/AutomationEngine/bin/Debug/netcoreapp2.1/AutomationEngine.pdb
+/home/sandeep/Desktop/CodePractice/AutomationEngine/obj/Debug/netcoreapp2.1/AutomationEngine.csprojAssemblyReference.cache
+/home/sandeep/Desktop/CodePractice/AutomationEngine/obj/Debug/netcoreapp2.1/AutomationEngine.csproj.CoreCompileInputs.cache
+/home/sandeep/Desktop/CodePractice/AutomationEngine/obj/Debug/netcoreapp2.1/AutomationEngine.AssemblyInfoInputs.cache
+/home/sandeep/Desktop/CodePractice/AutomationEngine/obj/Debug/netcoreapp2.1/AutomationEngine.AssemblyInfo.cs
+/home/sandeep/Desktop/CodePractice/AutomationEngine/obj/Debug/netcoreapp2.1/AutomationEngine.dll
+/home/sandeep/Desktop/CodePractice/AutomationEngine/obj/Debug/netcoreapp2.1/AutomationEngine.pdb
